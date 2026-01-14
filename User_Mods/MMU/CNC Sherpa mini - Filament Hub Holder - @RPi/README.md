@@ -17,8 +17,7 @@
 
 ## Installation
 
-*Note: There might be a small grub screw in the back holding the collet.*   
+* Remove the inner metal collet with a bit of force to overcome the resistance of the rubber ring holding it  
+
 
 ![](Assets/4.png)
-
-
